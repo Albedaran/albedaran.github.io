@@ -1,0 +1,59 @@
+body {
+    margin: 0px;
+    background-image: url("topography.png");
+}
+img {
+    float: left;
+    padding: 12px 10% 0px 10%;
+}
+.headline1, .headline2, p, #toplink {
+    padding: 0px 10% 0px 10%;
+}
+.mainlinks, .headline1, .headline2 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+#dashes {
+    text-align: center;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    background: #333333;
+    padding: 35px 30px 42px 30px;
+}
+p {
+    font-size: 24px;
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+}
+li {
+    float: right;
+    padding: 8px;
+    font-size: 28px;
+    text-align: center;
+    position: relative;
+    right: 10%;
+}
+a {
+    margin: 0px;
+    text-transform: uppercase;
+    text-decoration: underline;
+    color: #ff0099;
+    display: block;
+}
+.headline1 h3 {
+    color: #ff0099;
+}
+h1 {
+    font-size: 72px;
+}
+h2 {
+    font-size: 48px;
+    text-align: center;
+}
+h3 {
+    font-size: 36px;
+}
+.boxyboi {
+    padding: 4cm 0px 0px 0px;
+}
